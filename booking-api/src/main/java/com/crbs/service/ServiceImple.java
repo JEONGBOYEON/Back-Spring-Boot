@@ -1,5 +1,5 @@
 package com.crbs.service;
 
-public class ServiceImple {
+public class ServiceImple implements Service {
 
 }
