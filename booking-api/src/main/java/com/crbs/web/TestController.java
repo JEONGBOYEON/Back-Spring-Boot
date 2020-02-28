@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/v0.0.1/lists")
+@RequestMapping("/v0.0.1/lists2")
 public class TestController {
 	private static final Logger logger = LoggerFactory.getLogger(TestController.class);
 
